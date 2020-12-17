@@ -1,0 +1,12 @@
+	Line 74: 		actions.add(new com.avaya.sce.runtime.varoperations.Assign("S_MenuIDsetting:MN994020_2_HyOp1_3", "888_994020", true).setDebugId(207));
+	Line 75: 		actions.add(new com.avaya.sce.runtime.varoperations.Assign("S_MenuIDsetting:MN994020_HyOp1_3", "888_994020", true).setDebugId(208));
+	Line 76: 		actions.add(new com.avaya.sce.runtime.varoperations.Assign("S_MenuIDsetting:MN995892_HyOp1_3", "888_995892", true).setDebugId(209));
+	Line 77: 		actions.add(new com.avaya.sce.runtime.varoperations.Assign("S_MenuIDsetting:MN995896_HyOp1_3", "888_995896", true).setDebugId(210));
+	Line 78: 		actions.add(new com.avaya.sce.runtime.varoperations.Assign("S_MenuIDsetting:MN_991273_HyOp1_3", "888_991273", true).setDebugId(211));
+	Line 79: 		actions.add(new com.avaya.sce.runtime.varoperations.Assign("S_MenuIDsetting:MN_992075_2_HyOp1_3", "888_992075", true).setDebugId(212));
+	Line 80: 		actions.add(new com.avaya.sce.runtime.varoperations.Assign("S_MenuIDsetting:MN_992075_HyOp1_3", "888_992075", true).setDebugId(213));
+	Line 81: 		actions.add(new com.avaya.sce.runtime.varoperations.Assign("S_MenuIDsetting:MN995805_HyOp1_2", "888_995805", true).setDebugId(215));
+	Line 82: 		actions.add(new com.avaya.sce.runtime.varoperations.Assign("S_MenuIDsetting:MN995824_HyOp1_2", "888_995824", true).setDebugId(216));
+	Line 83: 		actions.add(new com.avaya.sce.runtime.varoperations.Assign("S_MenuIDsetting:MN_994448_Hy2G3G_1_2", "888_994448", true).setDebugId(218));
+	Line 84: 		actions.add(new com.avaya.sce.runtime.varoperations.Assign("S_MenuIDsetting:MN_991045_LastPay", "888_991045", true).setDebugId(220));
+	Line 85: 		actions.add(new com.avaya.sce.runtime.varoperations.Assign("S_MenuIDsetting:MN_991040_Op0", "888_991040", true).setDebugId(327));
